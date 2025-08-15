@@ -2,6 +2,6 @@ server.port=8080
 
 rabbitmq.json.queue=JSONQueue
 
-user.status.webflux.topic=/status/update
+user.status.webflux.topic=/status
 
 spring.data.mongodb.uri=mongodb://localhost:27017/userdb
