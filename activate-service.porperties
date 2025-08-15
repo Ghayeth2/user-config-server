@@ -1,1 +1,9 @@
 server.port=9090
+
+rabbitmq.json.queue=JSONQueue
+
+rabbitmq.exchange=UserServicesExchange
+
+rabbitmq.json.route-key=JSONRoutekey
+
+spring.data.mongodb.uri=mongodb://localhost:27017/userdb
