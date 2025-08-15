@@ -1,1 +1,5 @@
 server.port=8080
+
+rabbitmq.json.queue=JSONQueue
+
+spring.data.mongodb.uri=mongodb://localhost:27017/userdb
